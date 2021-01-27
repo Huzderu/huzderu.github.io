@@ -1,7 +1,6 @@
 # Site settings
-title: Tanul Christian
-name: Tanul Christian
-
+title: Tanul Sebastian
+name: Tanul Sebastian
 # Build settings
 markdown: kramdown
 
@@ -9,13 +8,11 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: LinkedIn
-   url: https://linkedin.com/in/tanul-christian-94333a17a
+   url: https://www.linkedin.com/in/tanul-sebastian-ba38143a/
  - title: GitHub
-   url: https://github.com/chriskryx
- - title: StackOverflow
-   url: https://stackoverflow.com/users/10699002/christi-tanul
+   url: https://github.com/huzderu
  - title: CodeWars
-   url: https://codewars.com/users/chriskryx/stats
+   url: https://www.codewars.com/users/Sebastian_Tanul
    
 #Any buzzword skills you want to include
 skills:
@@ -49,10 +46,6 @@ github:
  - chriskryx/papers-please-game
  - chriskryx/sudoku-solver-backtrack-algo
 
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: stackoverflow.com/users/10699002/christi-tanul
-   flairimageurl: https://stackoverflow.com/users/flair/10699002.png
 
 intro: |
    I am a developer with 3 years of experience. I have primarily worked in Python, and came across some technologies and frameworks thereon such as Django, Docker, Airflow, BeautifulSoup, Tensorflow and Keras.<br/><br/>
