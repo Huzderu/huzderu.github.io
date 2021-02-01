@@ -30,10 +30,9 @@ roles:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - chriskryx/airflow-workflow-project
- - chriskryx/django_blog_project
- - chriskryx/web-scraping-tool
- - chriskryx/papers-please-game
- - chriskryx/sudoku-solver-backtrack-algo
+ - Huzderu/battlefield_validator
+ - Huzderu/tic_tac_toe
+ - Huzderu/snail_sort
+ - Huzderu/next_bigger_number
 
 theme: jekyll-theme-slate
