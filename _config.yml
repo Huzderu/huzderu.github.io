@@ -20,7 +20,7 @@ skills:
  - BeautifulSoup
  - Dlib, OpenCV
  - Pillow
- -After Effects, Photoshop, Premiere
+ - After Effects, Photoshop, Premiere
  
 #Work experience is required
 roles:
@@ -34,7 +34,6 @@ github:
  - Huzderu/battlefield_validator
  - Huzderu/tic_tac_toe
  - Huzderu/snail_sort
- - Huzderu/next_bigger_number
  - Huzderu/face_recognition-hide_eyes
 
 theme: jekyll-theme-slate
