@@ -17,9 +17,10 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Python
- - C
  - BeautifulSoup
- - HTML/CSS
+ - Dlib, OpenCV
+ - Pillow
+ -After Effects, Photoshop, Premiere
  
 #Work experience is required
 roles:
@@ -34,5 +35,6 @@ github:
  - Huzderu/tic_tac_toe
  - Huzderu/snail_sort
  - Huzderu/next_bigger_number
+ - Huzderu/face_recognition-hide_eyes
 
 theme: jekyll-theme-slate
